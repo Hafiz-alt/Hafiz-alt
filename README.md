@@ -39,4 +39,4 @@ Git, GitHub, VS Code, Postman, Render, Vercel
 
 🎨 About Me
 Passionate about creating intelligent systems, exploring new frameworks, and building fun side projects using AI tools like Bolt, Antigravity & Lovable.
-Outside code, I enjoy fitness, bikes, anime, and exploring new tech tools.
+Outside code, I enjoy fitness, bikes,  and exploring new tech tools.
