@@ -12,6 +12,7 @@ Hi, I'm Hafiz Muhammed, a full-stack & AI developer passionate about building cl
 
 A complete platform for e-waste collection, user management, pickup scheduling & admin dashboard,marketplace
 Tech: React, Node.js, Express, Supabase 
+
 📌 Showcases full-stack skills & clean UI design
 🔹 Online Shopping App (Django)
 
