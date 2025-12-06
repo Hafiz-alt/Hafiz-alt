@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Hafiz Muhammed P H Banner" width="100%">
+  <img src="github_banner.png" alt="Hafiz Muhammed P H Banner" width="100%">
 </p>
+
 
 ⭐ HAFIZ MUHAMMED P H
 Full Stack Developer • AI Developer • MCA Student
