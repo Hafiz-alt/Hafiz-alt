@@ -8,10 +8,10 @@ Full Stack Developer • AI Developer • MCA Student
 
 Hi, I'm Hafiz Muhammed, a full-stack & AI developer passionate about building clean, scalable, and intelligent digital systems. I enjoy crafting modern web applications, AI-powered tools, and automation systems that solve real problems.
 🚀 Featured Projects
-🔹 E-Waste Management System (React + Node.js) for which i got the Best Project Award
+🔹 E-Waste Management System (React + Supabase) for which i got the Best Project Award
 
 A complete platform for e-waste collection, user management, pickup scheduling & admin dashboard,marketplace
-Tech: React, Node.js, Express, Supabase 
+Tech: React, Supabase, Vite
 
 📌 Showcases full-stack skills & clean UI design
 🔹 Online Shopping App (Django)
@@ -25,7 +25,7 @@ Languages:
 Python, JavaScript, SQL, HTML, CSS
 
 Frameworks:
-React, Node.js, Express, Django, Flask
+React,  Express, Django, Flask
 
 AI Tools & APIs:
 Groq, Gemini, Bolt, Antigravity, Lovable AI
