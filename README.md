@@ -15,7 +15,7 @@
 <p align="center">
   <a href="mailto:hafizmdph88172@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/hafiz-muhammed-87a76a304">LinkedIn</a> |
-  <a href="https://exowaste.vercel.app/">Live Project</a>
+  <a href="https://hafiz-mca-portfolio.onrender.com/">Portfolio Website</a>
 </p>
 
 ## About Me
@@ -53,6 +53,7 @@ Offline-first mobile parking tracker for saved locations, photos, notes, vehicle
 
 ### More Work
 
+- [Portfolio Website](https://github.com/Hafiz-alt/hafiz-mca-portfolio) - Deployed Flask portfolio presenting my work, resume, and contact form. ([Live](https://hafiz-mca-portfolio.onrender.com/))
 - [AI Web Assistant](https://github.com/Hafiz-alt/my_ai_assistant) - Flask conversational assistant integrating the Groq API.
 - [OddEvenLibrary](https://github.com/Hafiz-alt/oddevenlibrary) - Published Python package project focused on packaging and testing.
 
